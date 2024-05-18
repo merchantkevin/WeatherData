@@ -8,3 +8,8 @@ This visualization is hosted at https://public.tableau.com/app/profile/kevin.mer
 Visualization can only be seen for a particular date  in line graph so as to reduce the cluttering, suggestions welcomed for improving the viz.
 
 Working on updating the visualization automatically at the moment, stay tuned!
+
+
+# Plots to be charted with this data:
+1. Line graph of a particular city with average day temp with city and date as drop down.
+2. Map of all 50 cities with date and time as the drop down.
